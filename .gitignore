@@ -1,3 +1,7 @@
+# Executables & Log Files
+client
+server
+*.log
 # Prerequisites
 *.d
 
